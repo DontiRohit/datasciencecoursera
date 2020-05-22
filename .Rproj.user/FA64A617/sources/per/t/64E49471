@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590149811205.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3298618189",
+    "id" : "64E49471",
+    "lastKnownWriteTime" : 1590149829,
+    "last_content_update" : 1590149829884,
+    "path" : "C:/Users/DONTI ROHIT/example1/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
